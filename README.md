@@ -44,20 +44,15 @@
 </div>
 
 
-###
-
+## Save My Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariefmb/ariefmb/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariefmb/ariefmb/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ariefmb/ariefmb/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
+##
 <img src="https://raw.githubusercontent.com/ariefmb/ariefmb/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
