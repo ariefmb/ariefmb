@@ -23,19 +23,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ariefmb&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=ariefmb&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ariefmb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Medium
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
 ## Save My Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariefmb/ariefmb/output/pacman-contribution-graph-dark.svg">
