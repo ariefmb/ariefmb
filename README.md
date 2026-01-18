@@ -32,7 +32,7 @@
 
 <div align="center">
 
-![user](https://nirzak-streak-stats.vercel.app/?user=ariefmb&theme=neon&hide_border=false)
+![user](https://nirzak-streak-stats.vercel.app/?user=ariefmb&theme=neon&hide_border=false)<br/>
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariefmb&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- ![api](https://github-readme-stats.vercel.app/api?username=ariefmb&theme=neon&hide_border=false&include_all_commits=true&count_private=true) -->
 
