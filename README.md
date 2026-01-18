@@ -32,15 +32,16 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ariefmb&theme=neon&hide_border=false&include_all_commits=true&count_private=true)![](https://nirzak-streak-stats.vercel.app/?user=ariefmb&theme=neon&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=ariefmb&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![user](https://nirzak-streak-stats.vercel.app/?user=ariefmb&theme=neon&hide_border=false)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariefmb&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![api](https://github-readme-stats.vercel.app/api?username=ariefmb&theme=neon&hide_border=false&include_all_commits=true&count_private=true) -->
 
 </div>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ariefmb&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Save My Contribution Activity
+## 🛡️ Save My Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariefmb/ariefmb/output/pacman-contribution-graph-dark.svg">
